@@ -49,11 +49,13 @@ ul {
   padding: 0px;
 }
 
-.to-do-li, .head-third {
+.to-do-li,
+.head-third {
   list-style: none;
 }
 
-input,button{
+input,
+button{
   outline: none;
 }
 
